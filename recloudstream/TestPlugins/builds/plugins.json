@@ -4,7 +4,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/TestPlugins",
         "status": 1,
-        "language": "ar",
+        "language": "en",
         "authors": [
             "Cloudburst"
         ],
@@ -22,7 +22,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
         "status": 1,
-        "language": "ar",
+        "language": "en",
         "authors": [
             "Cloudburst"
             
