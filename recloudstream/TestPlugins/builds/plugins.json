@@ -14,7 +14,7 @@
         "version": 1,
         "internalName": "ExampleProvider",
         "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AkwamProvider.cs3",
+        "url": "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/ExampleProvider.cs3",
         "name": "ExampleProvider"
     }
-]
+]cs3
